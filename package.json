@@ -1,0 +1,24 @@
+{
+  "name": "node-first-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriev-yuriy/node-first-hw.git"
+  },
+  "keywords": [],
+  "author": "Yuriev_Yuriy <yuriev1986@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriev-yuriy/node-first-hw/issues"
+  },
+  "homepage": "https://github.com/yuriev-yuriy/node-first-hw#readme",
+  "dependencies": {
+    "nanoid": "^3.1.20",
+    "yargs": "16.2.0"
+  }
+}
